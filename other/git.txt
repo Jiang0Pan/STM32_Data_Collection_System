@@ -1,0 +1,17 @@
+①  git init
+②  git clont 代码仓地址
+③  git add .
+④  git commit -m "代码提交信息"
+⑤  git remote add origin <代码仓地址>
+⑥  git push origin master 
+⑦  git pull oroigin master
+⑧  git 新工程提交 先pull ，在删除文件，再提交。
+
+
+代码仓回退：
+① git reflog
+② git reset --hard 761e949（ID）
+③ git push -f
+
+QT打包命令：
+① windeployqt 

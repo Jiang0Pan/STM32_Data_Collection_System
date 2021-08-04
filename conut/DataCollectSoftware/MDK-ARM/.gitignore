@@ -1,0 +1,7 @@
+# don't care files which were generated after compiled by Keil5
+DebugConfig/
+DataCollectSoftware/
+RTE/
+EventRecorderStub.scvd
+JLink*
+DataCollectSoftware.uvguix*

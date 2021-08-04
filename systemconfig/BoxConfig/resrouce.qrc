@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/background/back.png</file>
+        <file>resource/background/load.gif</file>
+        <file>resource/background/loading.gif</file>
+        <file>resource/background/PassWord.png</file>
+        <file>resource/background/User.png</file>
+        <file>resource/status/green.png</file>
+        <file>resource/status/red.png</file>
+        <file>resource/status/yellow.png</file>
+        <file>resource/background/icon.png</file>
+        <file>resource/background/thebuttonaftershutdown.png</file>
+        <file>resource/background/thebuttonbeforeshutdown.png</file>
+    </qresource>
+</RCC>

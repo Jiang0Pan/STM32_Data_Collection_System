@@ -1,0 +1,3 @@
+maincounter.c             贴面机
+maincounter_mq.c      模切机
+maincounter_ys.c        印刷机
