@@ -21,4 +21,10 @@ systemconfig:
     1. uart send config data 
     2. recv collect data 
     3. mangerment fireware version
-  
+    
+other:
+    1. bootloader.docx
+    2. BoxConfig.docx
+    3. DataCollectSoftware.docx
+    4. git.txt
+    5. 代码提交规范.pdf
