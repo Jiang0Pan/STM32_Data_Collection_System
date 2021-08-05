@@ -1,6 +1,7 @@
 # STM32_Data_Collection_System
 
-MCU： 
+MCU：
+
     STM32F407ZET6
 
 OS:
